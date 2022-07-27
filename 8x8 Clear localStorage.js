@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         8x8 Clear localStorage
-// @namespace    http://github.com/
 // @version      1.0
 // @description  Clears unwanted cache
 // @author       travis.olson
